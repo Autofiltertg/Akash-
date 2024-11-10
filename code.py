@@ -8,7 +8,7 @@ api_id = '11756133'
 api_hash = '6d2d5c9ca4fa62699f50feec4edd7b39'
 bot_token = '7268133849:AAGgIPmfOG_MYJf_aQs3siKKhB94DEm8gDs'
 
-source_channel_id = -1002489619196
+source_channel_id = -1002307986808
 destination_channel_id = -1002307986808
 forwarding_channel_id = -1002336664104
 
