@@ -4,13 +4,13 @@ import mimetypes
 from telethon import TelegramClient, events
 from telethon.tl.types import MessageMediaWebPage
 
-api_id = '27176712'
-api_hash = '364db60081f3b0196c8d74c1ef0b5'
-bot_token = '7482753070:AAE0rQFD9DXNWGaqGFcQkODu__IDobnyfZY'
+api_id = '11756133'
+api_hash = '6d2d5c9ca4fa62699f50feec4edd7b39'
+bot_token = '7268133849:AAGgIPmfOG_MYJf_aQs3siKKhB94DEm8gDs'
 
-source_channel_id = -1001698487847
-destination_channel_id = -1002102262575
-forwarding_channel_id = -1002312147490
+source_channel_id = -1002489619196
+destination_channel_id = -1002307986808
+forwarding_channel_id = -1002336664104
 
 bot = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 message_queue = asyncio.Queue()
