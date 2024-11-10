@@ -1,4 +1,3 @@
-pip install telethon emoji
 import asyncio
 import emoji
 import mimetypes
@@ -101,3 +100,4 @@ async def main():
 
 with bot:
     bot.loop.run_until_complete(main())
+    
