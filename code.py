@@ -1,3 +1,4 @@
+pip install telethon emoji
 import asyncio
 import emoji
 import mimetypes
